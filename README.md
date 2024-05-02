@@ -1,7 +1,7 @@
 # -IMHE-GBD-Fertility-Study
 
 ### Description: 
-Exploratory data analysis using a 2019 dataset from kaggle in order to compare US and Global fertility rates between 1950 and 2019. It can be seen from the graph below (created in matplotlib) that there has been a significan decrease in both but; however, the US fertility rate is in serious danger with it being {number} in 2019.
+Exploratory data analysis using a 2019 dataset from kaggle in order to compare US and Global fertility rates between 1950 and 2019. It can be seen from the graph below (created in matplotlib) that there has been a significan decrease in both but; however, the US fertility rate is in serious danger in 2019
 
 ![image](https://github.com/klynnlaster/-IMHE-GBD-Fertility-Study/assets/87542215/8af6ed33-81c7-4cbc-a88b-1e0f6019aeee)
 
